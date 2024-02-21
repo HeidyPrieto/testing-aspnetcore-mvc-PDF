@@ -1,4 +1,11 @@
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\CoverletSourceRootsMapping_EmployeesApp.IntegrationTests
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.csproj.AssemblyReference.cache
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.AssemblyInfoInputs.cache
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.AssemblyInfo.cs
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.sourcelink.json
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\testhost.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\EmployeesApp.deps.json
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\EmployeesApp.runtimeconfig.json
@@ -638,13 +645,6 @@ C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Integrat
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\EmployeesApp.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\bin\Debug\net8.0\EmployeesApp.pdb
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.csproj.AssemblyReference.cache
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\MvcTestingAppManifest.json
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.AssemblyInfoInputs.cache
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.AssemblyInfo.cs
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.csproj.CoreCompileInputs.cache
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.sourcelink.json
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.csproj.CopyComplete
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\EmployeesApp.IntegrationTests.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.IntegrationTests\obj\Debug\net8.0\refint\EmployeesApp.IntegrationTests.dll

@@ -14,6 +14,7 @@ C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bi
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\EmployeesApp.Tests.runtimeconfig.json
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\EmployeesApp.Tests.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\EmployeesApp.Tests.pdb
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Castle.Core.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Humanizer.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\MessagePack.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\MessagePack.Annotations.dll
@@ -67,6 +68,7 @@ C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bi
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Moq.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\NuGet.Common.dll
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\NuGet.Configuration.dll
@@ -344,5 +346,3 @@ C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\ob
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\obj\Debug\net8.0\EmployeesApp.Tests.pdb
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\obj\Debug\net8.0\EmployeesApp.Tests.genruntimeconfig.cache
 C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\obj\Debug\net8.0\ref\EmployeesApp.Tests.dll
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Castle.Core.dll
-C:\testing-aspnetcore-mvc-PDF\StartingProject\EmployeesApp\EmployeesApp.Tests\bin\Debug\net8.0\Moq.dll
